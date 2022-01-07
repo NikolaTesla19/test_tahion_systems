@@ -1,0 +1,114 @@
+.header:first-child {
+  background: #FFD100;
+  font-family: "Jost";
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 18px;
+  text-align: center;
+  color: #333333;
+  height: 32px;
+}
+
+.header:last-child {
+  height: 40px;
+  background: #F5F5F5;
+}
+
+.small-icons {
+  width: 44px;
+  height: 40px;
+}
+
+.carousel-text {
+  font-family: "Jost";
+  font-weight: normal;
+  font-size: 11px;
+  line-height: 17px;
+  color: #616365;
+  margin: 0px 8px;
+}
+
+.brand {
+  height: 623px;
+}
+
+.main-style-text {
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 20px;
+  color: #0F0F0F;
+}
+
+.brand-info-text {
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  color: #0F0F0F;
+  margin-right: 10px;
+}
+
+.slogan {
+  width: 220px;
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #0F0F0F;
+  margin-top: 20px;
+}
+
+.no-padding {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+.numbers {
+  font-family: "DIN Pro";
+  font-style: normal;
+  font-size: 48px;
+  line-height: 60px;
+  color: #0F0F0F;
+}
+
+.numbers-info {
+  font-family: "Jost";
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 20px;
+  color: #919191;
+}
+
+.brand-info {
+  height: 520px;
+}
+
+.banners {
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 28px;
+  color: #0F0F0F;
+}
+
+.years {
+  font-family: "Gill Sans Nova";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 60px;
+  line-height: 75px;
+  color: #0F0F0F;
+  margin: 8px 0px;
+}
+
+.carouselHistory {
+  height: 670px;
+}
+
+.grayBackground {
+  background: #F5F5F5;
+}
